@@ -1,4 +1,5 @@
 # Solana Charity Platform
+https://youtu.be/NX_tKCiYUGI
 
 A decentralized charity platform built on Solana blockchain using Next.js, featuring role-based access control, NFT badges, and transparent donation tracking.
 
